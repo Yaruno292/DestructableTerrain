@@ -1,4 +1,4 @@
-# DestructableTerrain
+# DestructibleTerrain
 Terrain and objects you can destroy!
 
 
